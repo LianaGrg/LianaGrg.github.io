@@ -1,0 +1,82 @@
+
+body{ background-color: white; }
+.word{
+  display:block;
+  font-family: "BenchNine";
+  font-size: 60px;
+  line-height:0.8;
+  text-transform:uppercase;
+  letter-spacing:0px;
+  margin-left: 300px
+}
+.bubble{
+	color: white;
+}
+.bubble-left1{background-color: #9BC5DE;
+		border: 10px;
+		border-radius: 50%,
+		text-align: left;
+		font-size: 40px;
+      	margin-right: 700px }
+.word1, .word2 {color:#9BC5DE}
+.word3, .word4 {color:#90B3C9}
+.word5 {color:#6B7B8A;
+        margin-left: 200px;}
+.word6{color:#8B8091}
+.word7 {color:#B68FA2}
+.word8 {color:#D99AB5}
+.word9, .word10{color:#809BB0}
+img {margin-right: 250px
+	border: 10px, solid;
+	border-color: #9BC5DE;}
+
+.bubble-left2{background-color: #90B3C9;
+		border: 10px;
+		border-radius: 50%,
+		text-align: left;
+		font-size: 20px;
+		width: 15%;
+      	margin-right: 500px }
+.bubble-right2{background-color: #8B8091;
+		border: 10px;
+		border-radius: 50%,
+		text-align: left;
+		font-size: 15px;
+
+}
+
+th,td{background-color: #8B8091;
+	padding: 10px;
+	border: 2px solid;}
+
+table{border-collapse: collapse;}
+
+.bubble-left3{background-color: #6B7B8A;
+		border: 10px, solid;
+		text-align: left;
+		font-size: 20px;
+		width: 20%;
+		
+  }
+  .bubble-left4{background-color: #D99AB5;
+		border: 10px;
+		border-radius: 50%,
+		font-size: 80px;
+		width: 20%;
+		margin-left: 1300px; }
+.bubble-right3{background-color: #B68FA2;
+		border: 20px, solid;
+		text-align: left;
+		font-size: 20px;
+		width: 700px;
+		height: 80px;
+  }
+
+  .bubble-left5{background-color: #809BB0;
+		border: 10px, solid;
+		text-align: left;
+		font-size: 20px;
+		width: 20%;
+		margin-left: 1300px;
+		
+  }
